@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Starbucks launches olive oil coffee drinks in Italy - BBC",
+            "description": "The world's biggest coffee chain entered the Italian market in 2018 and has around 20 stores in the country.",
+            "url": "https://www.bbc.com/news/business-64727626",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F9C4/production/_128704936_20230221-starbucks-oleato-golden-cold-foam-handoff.jpg",
+            "publishedAt": "2023-02-22T04:19:38Z",
+            "content": "The world's largest coffee chain Starbucks says it is launching a line of olive oil-infused drinks in Italy.\r\nChief executive Howard Schultz says olive oil's \"unexpected, velvety, buttery flavour... … [+2268 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tierney Sneed, Fredreka Schouten, Eric Bradner, Gregory Krieg",
+            "title": "Liberal and conservative advance to general election for high-stakes Wisconsin Supreme Court race, CNN projects - CNN",
+            "description": "Liberal Janet Protasiewicz and conservative Daniel Kelly will advance to the general election for a pivotal Wisconsin state Supreme Court seat, CNN projected Tuesday.",
+            "url": "https://www.cnn.com/2023/02/21/politics/wisconsin-supreme-court-election/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230217092223-01-wisconsin-supreme-court-abortion-voting-redistricting.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-22T04:19:00Z",
+            "content": "Liberal Janet Protasiewicz and conservative Daniel Kelly will advance to the general election for a pivotal Wisconsin state Supreme Court seat, CNN projected Tuesday. \r\nThe nonpartisan primary featur… [+2968 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles",
+            "title": "Earth's innermost layer is a 400-mile-wide ball of iron, new study suggests - CNN",
+            "description": "Scientists have long wondered what lies at the center of the Earth. New research is putting weight behind a theory that our home planet has a distinct ball of iron within its metallic core.",
+            "url": "https://www.cnn.com/2023/02/21/world/earths-core-iron-metallic-core-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230221135833-earths-core-iron-metallic-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-22T03:35:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nScientists have long wondered what lies at the very ce… [+3360 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Des Bieler",
+            "title": "Alabama star Brandon Miller delivered gun used in fatal shooting, police say - The Washington Post",
+            "description": "A Tuscaloosa detective reportedly testified that Miller brought a gun to then-teammate Darius Miles, who handed it to a friend alleged to have killed a woman.",
+            "url": "https://www.washingtonpost.com/sports/2023/02/21/alabama-brandon-miller-darius-miles-nate-oats/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OURDXQK4Y73W6DISYIEGPQM7YQ.jpg&w=1440",
+            "publishedAt": "2023-02-22T03:32:00Z",
+            "content": "Comment on this story\r\nBrandon Miller, a standout freshman on Alabamas second-ranked mens basketball team, was linked in court Tuesday to a fatal shooting of a woman last month in downtown Tuscaloosa… [+4192 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Omar Garrick",
+            "title": "Jurgen Klopp: Liverpool became passive in Real Madrid first leg defeat - The Athletic",
+            "description": "Jurgen Klopp believes Liverpool became too passive during their Champions League round of 16 first leg defeat to Real Madrid.\nLiverpool went two goals up thanks to finishes from Darwin Nunez and Mohamed Salah, but the away side levelled the scoreline before h…",
+            "url": "https://theathletic.com/4238816/2023/02/21/jurgen-klopp-liverpool-real-madrid-passive/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/02/21164939/FotoJet-2023-02-21T214846.051-1024x683.jpg",
+            "publishedAt": "2023-02-22T03:16:37Z",
+            "content": "Jurgen Klopp believes Liverpool became too passive during their Champions League round of 16 first leg defeat to Real Madrid.\r\nLiverpool went two goals up thanks to finishes from Darwin Nunez and Moh… [+1945 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "William Watts",
+            "title": "Stock market books worst day of 2023 as rising yields contribute to 'perfect storm' - MarketWatch",
+            "description": "‘More trouble ahead’ if support for S&P 500 fails near 3,970: analyst",
+            "url": "https://www.marketwatch.com/story/why-is-the-stock-market-falling-blame-a-perfect-storm-as-yields-rise-dollar-rallies-ec23b387",
+            "urlToImage": "https://images.mktw.net/im-729167/social",
+            "publishedAt": "2023-02-22T03:16:00Z",
+            "content": "Rising Treasury yields appeared Tuesday to finally catch up with a previously resilient stock market, leaving the Dow Jones Industrial Average and other major indexes with their worst day so far of 2… [+4082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Seattle becomes first US city to ban caste discrimination - BBC",
+            "description": "But a Hindu advocacy group says the ordinance \"unfairly singles out and targets an entire community\".",
+            "url": "https://www.bbc.com/news/world-us-canada-64727735",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15856/production/_128705188_screenshot2023-02-21at6.06.33pm.png",
+            "publishedAt": "2023-02-22T03:01:23Z",
+            "content": "Seattle has become the first US city to ban discrimination based on caste after a vote by the city council. \r\nCouncilwoman Kshama Sawant, who wrote the legislation, said the fight against caste bias … [+1783 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Azi Paybarah",
+            "title": "Republican Vivek Ramaswamy announces he is running for president - The Washington Post",
+            "description": "The little-known Republican will campaign on a message of anti-wokeness, a theme that is growing in popularity within the party.",
+            "url": "https://www.washingtonpost.com/politics/2023/02/21/ramaswamy-gop-president-primary/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/72OYU2VSE4I63FFAKEUVJV2XCY.jpg&w=1440",
+            "publishedAt": "2023-02-22T02:38:15Z",
+            "content": "Comment on this story\r\nA young, rich and little-known tech entrepreneur who calls wokeism a national threat announced Tuesday night he is seeking the Republican presidential nomination.\r\nVivek Ramasw… [+3341 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Xi Jinping to visit Moscow for summit with Putin: Report - Al Jazeera English",
+            "description": "Top diplomat Wang Yi, who is currently in Moscow, has said ties between the two countries are ‘rock solid’.",
+            "url": "https://www.aljazeera.com/news/2023/2/22/xi-jinping-to-visit-moscow-for-summit-with-putin-report",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/2022-11-19T085439Z_169905655_RC2WOX9HED9W_RTRMADP_3_APEC-SUMMIT-THAILAND-CHINA.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-02-22T02:27:31Z",
+            "content": "Chinese leader Xi Jinping is preparing to visit Moscow for a summit with Russian President Vladimir Putin in the coming months, according to the Wall Street Journal.\r\nCiting people familiar with the … [+2572 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "The Associated Press",
+            "title": "Putin raises tension on Ukraine, suspends START nuclear pact - The Associated Press - en Español",
+            "description": "Russian President Vladimir Putin suspended Moscow’s participation in the last remaining nuclear arms control pact  with the United States, announcing the move Tuesday in a bitter speech in which he made clear he would not change his strategy in the war in Ukr…",
+            "url": "https://apnews.com/article/russia-ukraine-putin-politics-de0af48be7ea480ccb0175f55a065363",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e15601dd745a40ea8649aa3072979988/3000.jpeg",
+            "publishedAt": "2023-02-22T02:23:34Z",
+            "content": "Russian President Vladimir Putin suspended Moscows participation in the last remaining nuclear arms control pact with the United States, announcing the move Tuesday in a bitter speech in which he mad… [+6656 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Trae Young needs to alter his game after Nate McMillan's firing, or he could be next to go in Atlanta - CBS Sports",
+            "description": "It's also the job of the next coach to get through to Young",
+            "url": "https://www.cbssports.com/nba/news/trae-young-needs-to-alter-his-game-after-nate-mcmillans-firing-or-he-could-be-next-to-go-in-atlanta/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/22/86608a45-3aa4-49b5-be19-3bc87ff5bb8d/thumbnail/1200x675/b4ebe7540b95fe97eaad95f9260ff9e8/nate-mcmillan-trae-young-hawks-getty.jpg",
+            "publishedAt": "2023-02-22T02:08:00Z",
+            "content": "The Altanta Hawks fired Nate McMillan on Tuesday, and it was a long time coming. After what was, with the benefit of hindsight, a matchup-friendly and ultimately deceiving run to the 2021 Eastern Con… [+5408 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Carly Cassella",
+            "title": "There Might Be a Simple Reason We Haven't Found Life on Mars - ScienceAlert",
+            "description": "Mars rovers tasked with hunting for traces of biology could roll over microscopic life forms without smelling a thing, simply because their instruments aren't up to the task.",
+            "url": "https://www.sciencealert.com/there-might-be-a-simple-reason-we-havent-found-life-on-mars",
+            "urlToImage": "https://www.sciencealert.com/images/2023/02/MarsRover.jpg",
+            "publishedAt": "2023-02-22T01:36:49Z",
+            "content": "Mars rovers tasked with hunting for traces of biology could roll over microscopic life forms without smelling a thing, simply because their instruments aren't up to the task.\r\nA new study carried out… [+3475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Boss of Wagner mercenary group accuses Russian army chiefs of 'treason' - The Guardian",
+            "description": "Yevgeny Prigozhin says Moscow is refusing to supply the group with munitions and other supplies in Ukraine",
+            "url": "https://www.theguardian.com/world/2023/feb/22/wagner-mercenary-group-yevgeny-prigozhin-russia-army-chiefs-treason-ammunition-ukraine-war",
+            "urlToImage": "https://i.guim.co.uk/img/media/42af08e108ca70a869a563eab83412ac18e8416f/0_57_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ebf440489f5696c63af553e70527b5b",
+            "publishedAt": "2023-02-22T00:39:00Z",
+            "content": "The head of Russias Wagner mercenary group has said Moscows military chiefs are refusing to supply the group with munitions and are seeking to destroy it, accusing them of treason, in an escalation o… [+2930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX, NASA delay Crew-6 astronaut launch to Feb. 27 - Space.com",
+            "description": "Crew-6 is now scheduled to lift off at 1:45 a.m. ET on Monday (Feb. 27).",
+            "url": "https://www.space.com/spacex-crew-6-astronaut-mission-launch-delay-feb-27",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/M3PMB9JuTgtDHKhbNF2ZFC-1200-80.jpeg",
+            "publishedAt": "2023-02-22T00:20:22Z",
+            "content": "We'll have to wait one extra day to see SpaceX's next astronaut mission lift off.\r\nThat flight, a four-person mission to the International Space Station (ISS) known as Crew-6, had been scheduled to l… [+4502 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "RANDALL CHASE",
+            "title": "Musk's Tesla pay package under scrutiny in Delaware court - Yahoo Finance",
+            "description": "Attorneys for a Tesla shareholder urged a Delaware judge on Tuesday to invalidate a 2018 compensation package awarded by the company’s board of directors to ...",
+            "url": "https://finance.yahoo.com/news/musks-tesla-pay-package-under-001827198.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zVDCHybE1h33m45ERnjvUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/93bd489728de2af72cea0747926546f1",
+            "publishedAt": "2023-02-22T00:18:00Z",
+            "content": "WILMINGTON, Del. (AP) Attorneys for a Tesla shareholder urged a Delaware judge on Tuesday to invalidate a 2018 compensation package awarded by the companys board of directors to CEO Elon Musk that is… [+3294 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gerrit De Vynck",
+            "title": "Microsoft starts reversing Bing's AI chatbot restrictions - The Washington Post",
+            "description": "Microsoft put limits on its chatbot after it acted bizarre in conversations. It's already backpedaling on those limits after some users complained.",
+            "url": "https://www.washingtonpost.com/technology/2023/02/21/microsoft-bing-ai-chatbot/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6TI3ZQ455PSVIQCWBZDVU5BME.JPG&w=1440",
+            "publishedAt": "2023-02-22T00:17:15Z",
+            "content": "Comment on this story\r\nMicrosoft is backpedaling on the restrictions it imposed on its Bing artificial intelligence chatbot after early users of the tech got it to engage in bizarre and troubling con… [+2506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Matt Schimkowitz",
+            "title": "R.I.P. Jansen Panettiere, Walking Dead actor, brother of Hayden - The A.V. Club",
+            "description": "Jansen Panettiere, the brother of actor Hayden Panettiere, was 28",
+            "url": "https://www.avclub.com/rip-jansen-panettiere-walking-dead-actor-brother-hayden-1850142780",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e23eff330999a968b0c38f552123eac5.png",
+            "publishedAt": "2023-02-21T23:52:00Z",
+            "content": "Jansen Panettiere, the actor who appeared in Disney Channel Originals Movies, The Walking Dead, and Everybody Hates Chris, and the brother of Scream 6 star Hayden Panettiere, has died. TMZ was the fi… [+1481 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Robert Lea",
+            "title": "'Runaway' black hole the size of 20 million suns found speeding through space with a trail of newborn stars behind it - Livescience.com",
+            "description": "Astronomers have discovered a \"runaway\" black hole, potentially the first observational evidence that supermassive black holes can be ejected from their host galaxies.",
+            "url": "https://www.livescience.com/runaway-black-hole-the-size-of-20-million-suns-found-speeding-through-space-with-a-trail-of-newborn-stars-behind-it",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/thshV6AHvcsxSFxP6qHfzH-1200-80.jpg",
+            "publishedAt": "2023-02-21T23:13:32Z",
+            "content": "Astronomers have spotted a runaway supermassive black hole, seemingly ejected from its home galaxy and racing through space with a chain of stars trailing in its wake. \r\nAccording to the team's resea… [+9391 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Timi Cantisano",
+            "title": "Motorola leak shows off an unannounced foldable flip with an impressive front cover display - XDA Developers",
+            "description": "A new leak shows off a foldable flip which could eventually become Motorola's next Razr handset.",
+            "url": "https://www.xda-developers.com/motorola-razr-2023-front-cover-display/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-21-at-1-56-31-pm.png",
+            "publishedAt": "2023-02-21T22:41:00Z",
+            "content": "It's been a while since we last saw something exciting from Motorola. Although the company does manage to announce and sell a healthy variety of smartphones every year, it doesn't really tend to offe… [+1621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Mike Vulpo",
+            "title": "Avril Lavigne and Mod Sun Break Up a Year After Engagement - E! NEWS",
+            "description": "After nearly three years together, Avril Lavigne and Mod Sun have called it quits and ended their engagement. Get the details behind the surprise breakup.",
+            "url": "https://www.eonline.com/news/1365644/avril-lavigne-and-mod-sun-break-up-a-year-after-engagement",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202236/rs_1200x1200-220406104952-1200-Avril_Lavigne_and_Mod_Sun_0000_GettyImages-1389446238.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-02-21T22:41:00Z",
+            "content": "She was a Sk8er Boi and said see you later boy. \r\nAvril Lavigne and Mod Sun have broken up close to a year after the singers got engaged, her rep confirmed to E! News Feb. 21.\r\nMod Sun's rep, however… [+796 chars]"
+        }
+    ]
+}
